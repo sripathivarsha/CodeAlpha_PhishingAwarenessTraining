@@ -7,7 +7,7 @@ CodeAlpha Cybersecurity Internship
 Task 2 – Phishing Awareness Training
 
 ## Prepared By
-Poreddy Bharath Kumar
+Sripathi Varsha
 
 ## Overview
 This project is a cybersecurity awareness presentation focused on phishing attacks and social engineering.
